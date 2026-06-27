@@ -15,8 +15,9 @@ app.use(cors());
 app.use(express.static(path.join(__dirname)));
 
 // MongoDB connection
-const mongoURI = 'mongodb+srv://login:12345@cluster-1.p03opc1.mongodb.net/data?retryWrites=true&w=majority';
+require("dotenv").config();
 
+mongoose.connect(process.env.MONGO_URI);
 mongoose.connect(mongoURI, {
   useNewUrlParser: true,
   useUnifiedTopology: true
