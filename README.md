@@ -1,5 +1,4 @@
 # Global Issue Explorer
-
 Global Issue Explorer is an interactive web platform that enables users to explore and understand major global challenges through data visualizations, educational content, and country-wise indicators. The platform presents topics such as Human Development Index (HDI), Global Peace Index (GPI), Climate Change, Urbanization, Youth Employment, and Global Conflicts through an intuitive and responsive interface.
 
 ## Features
