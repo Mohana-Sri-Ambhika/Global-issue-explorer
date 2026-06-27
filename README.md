@@ -63,4 +63,3 @@ npm start
 - User authentication
 - Advanced analytics dashboard
 - Cloud deployment
-https://mohana-sri-ambhika.github.io/Global-issue-explorer/
